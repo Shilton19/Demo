@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 heyyyy love
 redtfyghuj
 kovai
+=======
+how are you
+>>>>>>> delz
